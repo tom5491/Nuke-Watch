@@ -37,6 +37,14 @@ def retrieve_all_power_station_data(nuke_statuses_url='https://www.edfenergy.com
             reactor_data['status'] = status_tag.text.strip() if status_tag else "Unknown"
             reactor_data['output_MW'] = int(output_tag.text.strip()) if output_tag else 0
 
+            shutdown_category_div = reactor_soup.find('div', string='Shutdown category')
+            shutdown_category = shutdown_category_div.find_next('div').text.strip() if shutdown_category_div else "None"
+            return_to_service_div = reactor_soup.find('div', string='Expected return to service date')
+            return_to_service_date = return_to_service_div.find_next('div').text.strip() if return_to_service_div else "None"
+
+            reactor_data['shutdown_category'] = shutdown_category
+            reactor_data['expected_return_to_service_date'] = return_to_service_date
+
             power_station_data['reactors'] += [reactor_data]
 
         all_power_station_data += [power_station_data]
@@ -69,6 +77,6 @@ Retrieval Process
 all_power_station_data = retrieve_all_power_station_data()
 
 with open('data/all_power_station_data.json', 'w') as fp:
-    json.dump(all_power_station_data, fp)
+    json.dump(all_power_station_data, fp, indent=4)
     
 update_readme_time('README.md')
