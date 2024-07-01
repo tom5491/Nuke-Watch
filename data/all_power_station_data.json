@@ -1,1 +1,31 @@
-[]
+[
+    {
+        "name": "Torness",
+        "reactors": [
+            { "name": "Reactor 1", "status": "Nominal full load", "output_MW": 602 },
+            { "name": "Reactor 2", "status": "Nominal full load", "output_MW": 614 }
+        ]
+    },
+    { "name": "Sizewell B", "reactors": [{ "name": "Reactor 1", "status": "Nominal full load", "output_MW": 601 }] },
+    {
+        "name": "Heysham 2",
+        "reactors": [
+            { "name": "Reactor 7", "status": "Nominal full load", "output_MW": 594 },
+            { "name": "Reactor 8", "status": "Reducing load prior to off-load refuelling", "output_MW": 549 }
+        ]
+    },
+    {
+        "name": "Heysham 1",
+        "reactors": [
+            { "name": "Reactor 1", "status": "Nominal full load", "output_MW": 495 },
+            { "name": "Reactor 2", "status": "Nominal full load", "output_MW": 549 }
+        ]
+    },
+    {
+        "name": "Hartlepool",
+        "reactors": [
+            { "name": "Reactor 1", "status": "Off-load refuelling", "output_MW": -14 },
+            { "name": "Reactor 2", "status": "At reduced load to rectify a defect on the main boiler feed pump system", "output_MW": 182 }
+        ]
+    }
+]

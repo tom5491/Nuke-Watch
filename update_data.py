@@ -14,26 +14,28 @@ def retrieve_all_power_station_data(nuke_statuses_url='https://www.edfenergy.com
     r = requests.get(nuke_statuses_url)
     soup = BeautifulSoup(r.content, features='lxml')
 
-    power_station_soups = [
-        node.parent.parent.parent 
-        for node 
-        in soup.findAll('h3', {'class': 'node-title'})
-    ]
+    # Updated class and tag selection based on provided HTML
+    power_station_soups = soup.find_all('article', class_='reactors-layout-listing')
 
     all_power_station_data = list()
 
     for power_station_soup in power_station_soups:
         power_station_data = dict()
-        power_station_data['name'] = power_station_soup.find('h3', {'class': 'node-title'}).text.strip()
+        power_station_data['name'] = power_station_soup.find('h3', class_='h4').find('a').text.strip()
 
-        reactor_soups = power_station_soup.findAll('div', {'class': 'reactor'})
+        reactor_soups = power_station_soup.find_all('div', class_='reactor')
         power_station_data['reactors'] = list()
 
         for reactor_soup in reactor_soups:
             reactor_data = dict()
-            reactor_data['name'] = reactor_soup.find('h3', {'class': 'field-name-field-reactor-name'}).text.strip()
-            reactor_data['status'] = reactor_soup.find('span', {'class': 'status-text'}).text.strip()
-            reactor_data['output_MW'] = int(reactor_soup.find('div', {'class': 'generation-amount'}).text.strip()[:-2])
+            reactor_name_tag = reactor_soup.find('h3', class_='h5 field-name-field-reactor-name').find('div')
+            status_div = reactor_soup.find('div', string='Status')
+            status_tag = status_div.find_next('div') if status_div else None
+            output_tag = reactor_soup.find('div', class_='generation-amount').find('div')
+
+            reactor_data['name'] = reactor_name_tag.text.strip() if reactor_name_tag else "Unknown"
+            reactor_data['status'] = status_tag.text.strip() if status_tag else "Unknown"
+            reactor_data['output_MW'] = int(output_tag.text.strip()) if output_tag else 0
 
             power_station_data['reactors'] += [reactor_data]
 
