@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 599,
+                "output_MW": 604,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 614,
+                "output_MW": 619,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -55,16 +55,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 488,
+                "output_MW": 493,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Offload refuelling",
-                "output_MW": -37,
+                "output_MW": -13,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "25 July 2024"
+                "expected_return_to_service_date": "26 July 2024"
             }
         ]
     },
@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 573,
+                "output_MW": 569,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
