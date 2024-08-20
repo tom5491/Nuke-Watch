@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "At reduced load for a feed water leak and boiler feed pump repairs",
-                "output_MW": 276,
+                "output_MW": 281,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
-                "status": "Load raise held to address a condensate leak",
-                "output_MW": 442,
+                "status": "Nominal full load",
+                "output_MW": 547,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 598,
+                "output_MW": 595,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 596,
+                "output_MW": 600,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -62,7 +62,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 554,
+                "output_MW": 553,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 569,
+                "output_MW": 573,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
-                "status": "At reduced load due to marine ingress",
-                "output_MW": 535,
+                "status": "Nominal full load",
+                "output_MW": 539,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
