@@ -4,15 +4,15 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "Nominal full load",
-                "output_MW": 599,
+                "status": "At reduced load due to seaweed at seawater intake",
+                "output_MW": 518,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
-                "status": "Nominal full load",
-                "output_MW": 613,
+                "status": "At reduced load due to seaweed at seawater intake",
+                "output_MW": 518,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 620,
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 505,
+                "output_MW": 504,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "At reduced load due to a condenser tube leak",
-                "output_MW": 225,
+                "output_MW": 222,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Offload refuelling",
-                "output_MW": -12,
+                "output_MW": -32,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "12 October 2024"
             }
