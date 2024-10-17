@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Reducing load prior to off-load refuelling",
-                "output_MW": 515,
+                "output_MW": 511,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 621,
+                "output_MW": 623,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 631,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 612,
+                "output_MW": 616,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 502,
+                "output_MW": 506,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 563,
+                "output_MW": 564,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Raising load following condenser tube leak repair",
-                "output_MW": 384,
+                "output_MW": 400,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Raising load following off-load refuelling and graphite inspection",
-                "output_MW": 77,
+                "output_MW": 175,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
