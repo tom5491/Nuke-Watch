@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 616,
+                "output_MW": 617,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 614,
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 620,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": -21,
+                "output_MW": -22,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "15 December 2024"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 503,
+                "output_MW": 498,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 559,
+                "output_MW": 560,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -81,7 +81,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 578,
+                "output_MW": 577,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
