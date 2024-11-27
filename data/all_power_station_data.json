@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Refuelling outage",
-                "output_MW": -14,
+                "output_MW": -13,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "5 Dec 2024"
             }
@@ -36,13 +36,13 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 627,
+                "output_MW": 626,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
-                "status": "Nominal full load",
+                "status": "Refuelling outage",
                 "output_MW": -20,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "15 December 2024"
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 487,
+                "output_MW": 509,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Off-load refuelling",
-                "output_MW": -9,
+                "output_MW": 0,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "13 December 2024"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 576,
+                "output_MW": 573,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 578,
+                "output_MW": 575,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
