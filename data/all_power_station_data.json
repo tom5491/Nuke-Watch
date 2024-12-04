@@ -24,9 +24,9 @@
             {
                 "name": "Reactor 1",
                 "status": "Refuelling outage",
-                "output_MW": -8,
+                "output_MW": -16,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "5 Dec 2024"
+                "expected_return_to_service_date": "4 Dec 2024"
             }
         ]
     },
