@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Shut down to repair a condensate leak",
-                "output_MW": -24,
+                "output_MW": -8,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "22 January 2025"
+                "expected_return_to_service_date": "1 February 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 561,
+                "output_MW": 556,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
