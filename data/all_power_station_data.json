@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 623,
+                "output_MW": 621,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 610,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Unknown",
-                "output_MW": 602,
+                "output_MW": 604,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,16 +36,16 @@
             {
                 "name": "Reactor 7",
                 "status": "Statutory outage",
-                "output_MW": -16,
+                "output_MW": -15,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "8 April 2025"
             },
             {
                 "name": "Reactor 8",
                 "status": "Reactor automatically tripped following a generator trip",
-                "output_MW": -11,
+                "output_MW": -31,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "22 January 2025"
+                "expected_return_to_service_date": "20 January 2025"
             }
         ]
     },
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 454,
+                "output_MW": 437,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Off-load refuelling",
-                "output_MW": -6,
+                "output_MW": -29,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "23 January 2025"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Shut down to repair a condensate leak",
-                "output_MW": -8,
+                "output_MW": -9,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "1 February 2025"
+                "expected_return_to_service_date": "9 February 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 567,
+                "output_MW": 574,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
