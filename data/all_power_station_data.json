@@ -57,7 +57,7 @@
                 "status": "Refuelling and graphite inspection outage",
                 "output_MW": -13,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "9 March 2025"
+                "expected_return_to_service_date": "17 March 2025"
             },
             {
                 "name": "Reactor 2",
