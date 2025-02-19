@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 601,
+                "output_MW": 595,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 624,
+                "output_MW": 627,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Unknown",
-                "output_MW": 605,
+                "output_MW": 607,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 633,
+                "output_MW": 641,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -73,15 +73,15 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "Shut down to repair a boiler tube leak",
-                "output_MW": -32,
-                "shutdown_category": "Planned",
-                "expected_return_to_service_date": "17 February 2025"
+                "status": "Raising load following outage to address a boiler tube leak",
+                "output_MW": 332,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 561,
+                "output_MW": 569,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
