@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "Statutory outage",
-                "output_MW": -17,
+                "output_MW": -18,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "8 April 2025"
             },
@@ -62,7 +62,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 569,
+                "output_MW": 570,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Raising load following outage to address a boiler tube leak",
-                "output_MW": 529,
+                "output_MW": 522,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
