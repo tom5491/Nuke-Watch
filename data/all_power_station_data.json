@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Refuelling outage",
-                "output_MW": -20,
+                "output_MW": -19,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "3 April 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 620,
+                "output_MW": 622,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
