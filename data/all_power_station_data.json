@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 628,
+                "output_MW": 633,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -54,15 +54,15 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "Raising load following off-load refuelling and graphite inspection outage",
-                "output_MW": 217,
-                "shutdown_category": "None",
-                "expected_return_to_service_date": "None"
+                "status": "Shut down to address a boiler valve steam leak",
+                "output_MW": -28,
+                "shutdown_category": "Non planned",
+                "expected_return_to_service_date": "2 April 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Reduced load due to a boiler tube leak",
-                "output_MW": 401,
+                "output_MW": 406,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 576,
+                "output_MW": 577,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Raising load following off-load refuelling",
-                "output_MW": 190,
+                "output_MW": 191,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
