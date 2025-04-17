@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 619,
+                "output_MW": 623,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Reducing load prior to off-load refuelling",
-                "output_MW": 484,
+                "output_MW": 397,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Unknown",
-                "output_MW": 604,
+                "output_MW": 605,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,16 +36,16 @@
             {
                 "name": "Reactor 7",
                 "status": "Statutory outage",
-                "output_MW": -19,
+                "output_MW": -13,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "28 April 2025"
             },
             {
                 "name": "Reactor 8",
-                "status": "Reducing load prior to off-load refuelling",
-                "output_MW": 530,
-                "shutdown_category": "None",
-                "expected_return_to_service_date": "None"
+                "status": "Off-load refuelling",
+                "output_MW": -15,
+                "shutdown_category": "Planned",
+                "expected_return_to_service_date": "5 May 2025"
             }
         ]
     },
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 504,
+                "output_MW": 502,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
