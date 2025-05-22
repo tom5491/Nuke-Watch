@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 622,
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
-                "status": "Raising load following graphite inspection outage",
-                "output_MW": 185,
+                "status": "Nominal full load",
+                "output_MW": 620,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Unknown",
-                "output_MW": 603,
+                "output_MW": 601,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -35,15 +35,15 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "Raising load following statutory outage",
-                "output_MW": 269,
+                "status": "Nominal full load",
+                "output_MW": 613,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
-                "status": "Raising load following refuelling outage",
-                "output_MW": 316,
+                "status": "Nominal full load",
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 500,
+                "output_MW": 496,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Reduced load due to a boiler tube leak",
-                "output_MW": 406,
+                "output_MW": 402,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -80,8 +80,8 @@
             },
             {
                 "name": "Reactor 2",
-                "status": "Raising load following boiler tube leak repair",
-                "output_MW": 510,
+                "status": "Nominal full load",
+                "output_MW": 567,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
