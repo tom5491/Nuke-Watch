@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 607,
+                "output_MW": 613,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 629,
+                "output_MW": 628,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Unknown",
-                "output_MW": 601,
+                "output_MW": 602,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 618,
+                "output_MW": 622,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -80,10 +80,10 @@
             },
             {
                 "name": "Reactor 2",
-                "status": "Nominal full load",
-                "output_MW": 579,
-                "shutdown_category": "None",
-                "expected_return_to_service_date": "None"
+                "status": "Automatically tripped following a generator transformer fault",
+                "output_MW": 0,
+                "shutdown_category": "Non planned",
+                "expected_return_to_service_date": "10 June 2025"
             }
         ]
     }
