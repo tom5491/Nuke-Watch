@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 494,
+                "output_MW": 490,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Raising load following off-load refuelling",
-                "output_MW": 442,
+                "output_MW": 441,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
