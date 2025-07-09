@@ -5,7 +5,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 613,
+                "output_MW": 616,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 621,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -80,10 +80,10 @@
             },
             {
                 "name": "Reactor 2",
-                "status": "Automatically tripped following a generator transformer fault",
+                "status": "Outage extended due to turbine rotor work",
                 "output_MW": 0,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "July 14 2025"
+                "expected_return_to_service_date": "September 22 2025"
             }
         ]
     }
