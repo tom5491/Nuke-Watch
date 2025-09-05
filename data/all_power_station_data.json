@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 620,
+                "output_MW": 617,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 483,
+                "output_MW": 484,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Load limited by condenser vacuum performance",
-                "output_MW": 350,
+                "output_MW": 318,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Statutory outage",
-                "output_MW": -10,
+                "output_MW": -12,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "September 9 2025"
             },
