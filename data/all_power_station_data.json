@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 610,
+                "output_MW": 607,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 611,
+                "output_MW": 610,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Off-load refuelling extended due to boiler feed pump fault",
-                "output_MW": -12,
+                "output_MW": -7,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "September 14 2025"
             },
             {
                 "name": "Reactor 8",
                 "status": "Off-load refuelling",
-                "output_MW": -9,
+                "output_MW": -4,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "October 2 2025"
             }
@@ -62,7 +62,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Load limited by condenser vacuum performance",
-                "output_MW": 249,
+                "output_MW": 272,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,9 +74,9 @@
             {
                 "name": "Reactor 1",
                 "status": "Statutory outage",
-                "output_MW": -10,
+                "output_MW": -13,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "September 9 2025"
+                "expected_return_to_service_date": "September 16 2025"
             },
             {
                 "name": "Reactor 2",
