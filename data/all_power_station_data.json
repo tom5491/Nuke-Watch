@@ -1,1 +1,90 @@
-[]
+[
+    {
+        "name": "Torness",
+        "reactors": [
+            {
+                "name": "Reactor 1",
+                "status": "Nominal full load",
+                "output_MW": 615,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
+            },
+            {
+                "name": "Reactor 2",
+                "status": "Nominal full load",
+                "output_MW": 611,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
+            }
+        ]
+    },
+    {
+        "name": "Sizewell B",
+        "reactors": [
+            {
+                "name": "Reactor 1",
+                "status": "Nominal full load",
+                "output_MW": 596,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
+            }
+        ]
+    },
+    {
+        "name": "Heysham 2",
+        "reactors": [
+            {
+                "name": "Reactor 7",
+                "status": "Off-load refuelling extended due to boiler feed pump fault",
+                "output_MW": -11,
+                "shutdown_category": "Planned",
+                "expected_return_to_service_date": "September 14 2025"
+            },
+            {
+                "name": "Reactor 8",
+                "status": "Off-load refuelling",
+                "output_MW": -6,
+                "shutdown_category": "Planned",
+                "expected_return_to_service_date": "October 2 2025"
+            }
+        ]
+    },
+    {
+        "name": "Heysham 1",
+        "reactors": [
+            {
+                "name": "Reactor 1",
+                "status": "Nominal full load",
+                "output_MW": 485,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
+            },
+            {
+                "name": "Reactor 2",
+                "status": "Load limited by condenser vacuum performance",
+                "output_MW": 281,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
+            }
+        ]
+    },
+    {
+        "name": "Hartlepool",
+        "reactors": [
+            {
+                "name": "Reactor 1",
+                "status": "Statutory outage",
+                "output_MW": -11,
+                "shutdown_category": "Planned",
+                "expected_return_to_service_date": "September 16 2025"
+            },
+            {
+                "name": "Reactor 2",
+                "status": "Outage extended due to turbine rotor work",
+                "output_MW": -6,
+                "shutdown_category": "Non planned",
+                "expected_return_to_service_date": "September 22 2025"
+            }
+        ]
+    }
+]
