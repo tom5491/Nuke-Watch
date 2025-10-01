@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 618,
+                "output_MW": 613,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 618,
+                "output_MW": 622,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 602,
+                "output_MW": 601,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "Off-load refuelling extended due to boiler feed pump fault",
-                "output_MW": -9,
+                "output_MW": -8,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "October 9 2025"
             },
@@ -74,9 +74,9 @@
             {
                 "name": "Reactor 1",
                 "status": "Statutory outage",
-                "output_MW": -20,
+                "output_MW": -33,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "October 2 2025"
+                "expected_return_to_service_date": "October 3 2025"
             },
             {
                 "name": "Reactor 2",
