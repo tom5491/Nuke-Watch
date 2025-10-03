@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 616,
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 623,
+                "output_MW": 622,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -57,12 +57,12 @@
                 "status": "Automatically tripped following interruption of electrical supplies",
                 "output_MW": 0,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "October 14 2025"
+                "expected_return_to_service_date": "October 12 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Statutory outage",
-                "output_MW": -13,
+                "output_MW": -14,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "December 6 2025"
             }
@@ -81,7 +81,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Outage extended due to turbine rotor work",
-                "output_MW": -4,
+                "output_MW": -5,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "October 20 2025"
             }
