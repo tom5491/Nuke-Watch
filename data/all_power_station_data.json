@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 617,
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 617,
+                "output_MW": 616,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 602,
+                "output_MW": 601,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Off-load refuelling",
-                "output_MW": -34,
+                "output_MW": -29,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "October 7 2025"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Automatically tripped following interruption of electrical supplies",
-                "output_MW": -16,
+                "output_MW": -33,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "October 12 2025"
             },
@@ -76,12 +76,12 @@
                 "status": "Statutory outage",
                 "output_MW": -20,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "October 7 2025"
+                "expected_return_to_service_date": "October 9 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Outage extended due to turbine rotor work",
-                "output_MW": -4,
+                "output_MW": -5,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "October 20 2025"
             }
