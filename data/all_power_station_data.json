@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 616,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 616,
+                "output_MW": 621,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 600,
+                "output_MW": 601,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -35,15 +35,15 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "Raising load following off-load refuelling",
-                "output_MW": 438,
+                "status": "At reduced load due to boiler feed flow restrictions",
+                "output_MW": 442,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 612,
+                "output_MW": 623,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Raising load following outage",
-                "output_MW": 279,
+                "output_MW": 395,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Statutory outage",
-                "output_MW": -3,
+                "output_MW": 0,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "December 6 2025"
             }
@@ -81,7 +81,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Outage extended due to turbine rotor work",
-                "output_MW": -5,
+                "output_MW": -4,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "October 27 2025"
             }
