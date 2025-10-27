@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 617,
+                "output_MW": 602,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 624,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "At reduced load due to boiler feed flow restrictions",
-                "output_MW": 297,
+                "output_MW": 292,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 617,
+                "output_MW": 618,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Raising load following outage",
-                "output_MW": 377,
+                "output_MW": 396,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Statutory outage",
-                "output_MW": -41,
+                "output_MW": -38,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "October 25 2025"
+                "expected_return_to_service_date": "November 2 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Outage extended due to turbine rotor work",
-                "output_MW": -8,
+                "output_MW": -5,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "November 1 2025"
             }
