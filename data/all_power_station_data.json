@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "At reduced load due to boiler feed flow restrictions",
-                "output_MW": 295,
+                "output_MW": 293,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 622,
+                "output_MW": 627,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "At reduced load",
-                "output_MW": 397,
+                "output_MW": 399,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -73,7 +73,7 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "Automatic trip while raising load",
+                "status": "Automatically tripped while raising load",
                 "output_MW": -41,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "November 5 2025"
