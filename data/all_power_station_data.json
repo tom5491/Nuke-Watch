@@ -5,7 +5,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 612,
+                "output_MW": 616,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -35,15 +35,15 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "At reduced load to reconnect boiler quadrant",
-                "output_MW": 73,
+                "status": "At reduced load due to pump unavailablilty",
+                "output_MW": 222,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 630,
+                "output_MW": 625,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Outage extended to address boiler tube leak",
-                "output_MW": -11,
+                "output_MW": -12,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "November 27 2025"
             },
