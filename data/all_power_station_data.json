@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 611,
+                "output_MW": 605,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Unknown",
-                "output_MW": -6,
+                "output_MW": -7,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "20 November 2025"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 603,
+                "output_MW": 602,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -35,15 +35,15 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "At reduced load due to pump unavailablilty",
-                "output_MW": 290,
+                "status": "At reduced load",
+                "output_MW": 338,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 620,
+                "output_MW": 626,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Load limited due to condenser performance",
-                "output_MW": 426,
+                "output_MW": 427,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Outage extended to address boiler tube leak",
-                "output_MW": -12,
+                "output_MW": -11,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "December 3 2025"
             },
