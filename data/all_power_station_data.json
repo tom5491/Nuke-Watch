@@ -35,7 +35,7 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "At reduced load",
+                "status": "Load will be increased daily to manage fuel operation",
                 "output_MW": 338,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
