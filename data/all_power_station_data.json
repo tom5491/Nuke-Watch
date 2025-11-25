@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 606,
+                "output_MW": 608,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 590,
+                "output_MW": 616,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Load limited to manage operations",
-                "output_MW": 464,
+                "output_MW": 474,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 616,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,16 +74,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Outage extended to address boiler tube leak",
-                "output_MW": -11,
+                "output_MW": -13,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "December 9 2025"
+                "expected_return_to_service_date": "December 16 2025"
             },
             {
                 "name": "Reactor 2",
                 "status": "Outage extended due to turbine rotor work",
                 "output_MW": -7,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "December 14 2025"
+                "expected_return_to_service_date": "December 21 2025"
             }
         ]
     }
