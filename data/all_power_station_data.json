@@ -4,7 +4,7 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "Reducing load prior to off-load refuelling 466",
+                "status": "Reducing load prior to off-load refuelling",
                 "output_MW": 466,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
