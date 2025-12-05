@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 551,
+                "output_MW": 575,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 634,
+                "output_MW": 624,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,16 +55,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 495,
+                "output_MW": 496,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Statutory outage",
-                "output_MW": -6,
+                "output_MW": -5,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "December 13 2025"
+                "expected_return_to_service_date": "December 20 2025"
             }
         ]
     },
