@@ -4,15 +4,15 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "Reducing load prior to off-load refuelling",
-                "output_MW": 465,
-                "shutdown_category": "None",
-                "expected_return_to_service_date": "None"
+                "status": "Off-load refuelling",
+                "output_MW": -26,
+                "shutdown_category": "Planned",
+                "expected_return_to_service_date": "December 21"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 620,
+                "output_MW": 630,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
