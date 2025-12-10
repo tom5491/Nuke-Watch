@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 645,
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
