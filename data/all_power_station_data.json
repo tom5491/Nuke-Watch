@@ -62,7 +62,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Raising load following statutory outage",
-                "output_MW": 517,
+                "output_MW": 547,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
