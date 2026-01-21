@@ -5,16 +5,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 614,
+                "output_MW": 622,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
-                "status": "Nominal full load",
-                "output_MW": 595,
-                "shutdown_category": "None",
-                "expected_return_to_service_date": "None"
+                "status": "Statutory outage",
+                "output_MW": -18,
+                "shutdown_category": "Planned",
+                "expected_return_to_service_date": "April 9 2026"
             }
         ]
     },
@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "Reduced load due to a boiler feed pump issue",
-                "output_MW": 423,
+                "output_MW": 449,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 491,
+                "output_MW": 490,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
-                "status": "Raising load following statutory outage",
-                "output_MW": 570,
+                "status": "Nominal full load",
+                "output_MW": 571,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,9 +74,9 @@
             {
                 "name": "Reactor 1",
                 "status": "Outage extended to inspect boiler steam relief valves",
-                "output_MW": -17,
+                "output_MW": -16,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "January 26 2025"
+                "expected_return_to_service_date": "January 26 2026"
             },
             {
                 "name": "Reactor 2",
