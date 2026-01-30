@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 496,
+                "output_MW": 497,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 561,
+                "output_MW": 528,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Outage extended to inspect boiler steam relief valves",
-                "output_MW": -27,
+                "output_MW": -23,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "Feb 1 2026"
             },
