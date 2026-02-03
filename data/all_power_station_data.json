@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 604,
+                "output_MW": 603,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Reduced load due to a boiler feed pump issue",
-                "output_MW": 487,
+                "output_MW": 478,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 608,
+                "output_MW": 601,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 497,
+                "output_MW": 498,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 530,
+                "output_MW": 529,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,9 +74,9 @@
             {
                 "name": "Reactor 1",
                 "status": "Outage extended to inspect boiler steam relief valves",
-                "output_MW": -51,
+                "output_MW": -50,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "Feb 4 2026"
+                "expected_return_to_service_date": "February 4 2026"
             },
             {
                 "name": "Reactor 2",
