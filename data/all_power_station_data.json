@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 621,
+                "output_MW": 618,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Statutory outage",
-                "output_MW": -17,
+                "output_MW": -16,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "April 9 2026"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Refuelling and graphite inspection outage",
-                "output_MW": -29,
+                "output_MW": -19,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "Mar 13 2026"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 624,
+                "output_MW": 630,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 497,
+                "output_MW": 498,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Reduced load due to gas circulator issue",
-                "output_MW": 411,
+                "output_MW": 412,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Raising load following outage",
-                "output_MW": 414,
+                "output_MW": 448,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
