@@ -42,7 +42,7 @@
             },
             {
                 "name": "Reactor 8",
-                "status": "Nominal full load",
+                "status": "Automatic trip due to generator transformer issue",
                 "output_MW": -6,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "March 8 2026"
