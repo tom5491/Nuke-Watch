@@ -36,16 +36,16 @@
             {
                 "name": "Reactor 7",
                 "status": "Refuelling and graphite inspection outage",
-                "output_MW": -25,
+                "output_MW": -9,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "Mar 13 2026"
+                "expected_return_to_service_date": "Mar 16 2026"
             },
             {
                 "name": "Reactor 8",
                 "status": "Automatic trip due to generator transformer issue",
-                "output_MW": -21,
+                "output_MW": -9,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "March 8 2026"
+                "expected_return_to_service_date": "March 10 2026"
             }
         ]
     },
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 479,
+                "output_MW": 486,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Reduced load due to gas circulator issue",
-                "output_MW": 409,
+                "output_MW": 401,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 566,
+                "output_MW": 575,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Outage extended for unit transformer cabling work",
-                "output_MW": 0,
+                "output_MW": -10,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "March 11 2026"
             }
