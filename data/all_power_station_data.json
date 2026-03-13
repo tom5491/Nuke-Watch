@@ -5,7 +5,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 625,
+                "output_MW": 622,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 606,
+                "output_MW": 607,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Refuelling and graphite inspection outage",
-                "output_MW": -23,
+                "output_MW": -27,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "Mar 16 2026"
             },
             {
                 "name": "Reactor 8",
-                "status": "Raising load following automatic trip",
-                "output_MW": 421,
+                "status": "Nominal full load",
+                "output_MW": 565,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -62,7 +62,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Reduced load due to gas circulator issue",
-                "output_MW": 401,
+                "output_MW": 402,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 571,
+                "output_MW": 574,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Outage extended for unit transformer cabling work",
-                "output_MW": -39,
+                "output_MW": -43,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "March 15 2026"
             }
