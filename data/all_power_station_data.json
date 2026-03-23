@@ -5,7 +5,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 619,
+                "output_MW": 621,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -35,15 +35,15 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "Refuelling and graphite inspection outage",
-                "output_MW": -41,
-                "shutdown_category": "Planned",
-                "expected_return_to_service_date": "Mar 16 2026"
+                "status": "Raising load following refuelling and graphite inspection outage",
+                "output_MW": 524,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 617,
+                "output_MW": 613,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Offline for refuelling",
-                "output_MW": 0,
+                "output_MW": -13,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "March 25 2026"
+                "expected_return_to_service_date": "March 27 2026"
             },
             {
                 "name": "Reactor 2",
                 "status": "Reduced load due to gas circulator issue",
-                "output_MW": 405,
+                "output_MW": 407,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,16 +74,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 572,
+                "output_MW": 574,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
-                "status": "Outage extended for unit transformer cabling work",
-                "output_MW": -38,
-                "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "March 16 2026"
+                "status": "Raising load following forced outage",
+                "output_MW": 296,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
             }
         ]
     }
