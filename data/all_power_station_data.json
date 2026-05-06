@@ -74,7 +74,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Automatic trip during routine testing.",
-                "output_MW": -5,
+                "output_MW": -7,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "13 May 2026"
             },
