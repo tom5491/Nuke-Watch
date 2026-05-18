@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Refuelling and graphite inspection outage",
-                "output_MW": -18,
+                "output_MW": -14,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "May 28 2026"
             },
             {
                 "name": "Reactor 2",
-                "status": "Nominal full load",
-                "output_MW": 628,
+                "status": "Operating on reduced load to address a steam leak",
+                "output_MW": 441,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "Nominal full load",
-                "output_MW": 626,
+                "output_MW": 628,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Refuelling and graphite inspection outage",
-                "output_MW": -20,
+                "output_MW": -21,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "June 4 2026"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 496,
+                "output_MW": 498,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Investigating pressure control system on start up vessel",
-                "output_MW": -22,
+                "output_MW": -21,
                 "shutdown_category": "Non planned",
                 "expected_return_to_service_date": "20 May 2026"
             },
             {
                 "name": "Reactor 2",
                 "status": "At reduced load due to back-up generator issue",
-                "output_MW": 423,
+                "output_MW": 448,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
