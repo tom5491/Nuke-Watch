@@ -12,7 +12,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 624,
+                "output_MW": 595,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Statutory/refuelling outage",
-                "output_MW": -4,
+                "output_MW": -5,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "July 16 2026"
             }
