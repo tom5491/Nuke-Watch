@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 610,
+                "output_MW": 618,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 608,
+                "output_MW": 610,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Statutory/refuelling outage",
-                "output_MW": -28,
+                "output_MW": -29,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "July 30 2026"
             }
@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 596,
+                "output_MW": 606,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 475,
+                "output_MW": 477,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -64,7 +64,7 @@
                 "status": "Refuelling and repair outage",
                 "output_MW": -39,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "July 21 2026"
+                "expected_return_to_service_date": "July 22 2026"
             }
         ]
     },
@@ -76,7 +76,7 @@
                 "status": "Manually shut down following a steam pipework leak",
                 "output_MW": -4,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "August 2 2026"
+                "expected_return_to_service_date": "August 12 2026"
             },
             {
                 "name": "Reactor 2",
