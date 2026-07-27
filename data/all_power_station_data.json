@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 608,
+                "output_MW": 614,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 604,
+                "output_MW": 607,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Statutory/refuelling outage",
-                "output_MW": -20,
+                "output_MW": -27,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "July 30 2026"
             }
@@ -35,15 +35,15 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "At reduced load until next refuelling",
-                "output_MW": 444,
-                "shutdown_category": "None",
-                "expected_return_to_service_date": "None"
+                "status": "Refuelling and graphite inspection",
+                "output_MW": -21,
+                "shutdown_category": "Planned",
+                "expected_return_to_service_date": "August 28 2026"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 604,
+                "output_MW": 622,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 479,
+                "output_MW": 480,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
