@@ -5,16 +5,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 615,
+                "output_MW": 611,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Refuelling outage",
-                "output_MW": -37,
+                "output_MW": -34,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "August 18 2026"
+                "expected_return_to_service_date": "August 14 2026"
             }
         ]
     },
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 591,
+                "output_MW": 592,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -43,7 +43,7 @@
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 623,
+                "output_MW": 615,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -55,7 +55,7 @@
             {
                 "name": "Reactor 1",
                 "status": "At reduced load for gas circulator investigations",
-                "output_MW": 401,
+                "output_MW": 400,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
