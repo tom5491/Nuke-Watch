@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 606,
+                "output_MW": 609,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 617,
+                "output_MW": 629,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -35,15 +35,15 @@
         "reactors": [
             {
                 "name": "Reactor 7",
-                "status": "Refuelling and graphite inspection",
-                "output_MW": -20,
-                "shutdown_category": "Planned",
-                "expected_return_to_service_date": "August 28 2026"
+                "status": "Raising load following refuelling and graphite inspection outage",
+                "output_MW": 216,
+                "shutdown_category": "None",
+                "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Nominal full load",
-                "output_MW": 613,
+                "output_MW": 606,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -54,8 +54,8 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "At reduced load due to condenser issue",
-                "output_MW": 422,
+                "status": "Nominal full load",
+                "output_MW": 445,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Manually shut down following a steam pipework leak",
-                "output_MW": -6,
+                "output_MW": -36,
                 "shutdown_category": "Non planned",
-                "expected_return_to_service_date": "August 29 2026"
+                "expected_return_to_service_date": "August 27 2026"
             },
             {
                 "name": "Reactor 2",
                 "status": "Reduced load ahead of refuelling outage",
-                "output_MW": 442,
+                "output_MW": 415,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
