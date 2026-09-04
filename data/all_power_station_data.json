@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 593,
+                "output_MW": 594,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
