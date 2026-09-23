@@ -55,14 +55,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Offline for refuelling",
-                "output_MW": -9,
+                "output_MW": -10,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "September 26 2026"
+                "expected_return_to_service_date": "September 30 2026"
             },
             {
                 "name": "Reactor 2",
                 "status": "At reduced load due to gas circulator issue",
-                "output_MW": 396,
+                "output_MW": 395,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,16 +74,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 537,
+                "output_MW": 557,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Offline for refuelling outage",
-                "output_MW": -32,
+                "output_MW": -8,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "October 3rd 2026"
+                "expected_return_to_service_date": "October 3 2026"
             }
         ]
     }
