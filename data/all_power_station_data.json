@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 611,
+                "output_MW": 614,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 627,
+                "output_MW": 624,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 597,
+                "output_MW": 599,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,14 +36,14 @@
             {
                 "name": "Reactor 7",
                 "status": "At reduced load on standby boiler feed pumps",
-                "output_MW": 529,
+                "output_MW": 533,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 8",
                 "status": "Statutory outage",
-                "output_MW": -19,
+                "output_MW": -18,
                 "shutdown_category": "Planned",
                 "expected_return_to_service_date": "November 23 2026"
             }
@@ -55,9 +55,9 @@
             {
                 "name": "Reactor 1",
                 "status": "Offline for refuelling outage",
-                "output_MW": -10,
+                "output_MW": -12,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "September 30 2026"
+                "expected_return_to_service_date": "October 3 2026"
             },
             {
                 "name": "Reactor 2",
@@ -74,16 +74,16 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 560,
+                "output_MW": 559,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Offline for refuelling outage",
-                "output_MW": -8,
+                "output_MW": -9,
                 "shutdown_category": "Planned",
-                "expected_return_to_service_date": "October 3 2026"
+                "expected_return_to_service_date": "October 6 2026"
             }
         ]
     }
