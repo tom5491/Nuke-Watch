@@ -5,14 +5,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 617,
+                "output_MW": 610,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 625,
+                "output_MW": 621,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -24,7 +24,7 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 599,
+                "output_MW": 601,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "At reduced load on standby boiler feed pumps",
-                "output_MW": 527,
+                "output_MW": 525,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -54,8 +54,8 @@
         "reactors": [
             {
                 "name": "Reactor 1",
-                "status": "Raising load following refuelling outage",
-                "output_MW": 417,
+                "status": "Nominal full load",
+                "output_MW": 448,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -81,7 +81,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Raising load following refuelling outage",
-                "output_MW": 441,
+                "output_MW": 446,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
