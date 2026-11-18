@@ -12,7 +12,7 @@
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 613,
+                "output_MW": 619,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -36,7 +36,7 @@
             {
                 "name": "Reactor 7",
                 "status": "At reduced load on standby boiler feed pumps",
-                "output_MW": 525,
+                "output_MW": 518,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
@@ -62,7 +62,7 @@
             {
                 "name": "Reactor 2",
                 "status": "At reduced load due to gas circulator issue",
-                "output_MW": 397,
+                "output_MW": 398,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
@@ -74,14 +74,14 @@
             {
                 "name": "Reactor 1",
                 "status": "Nominal full load",
-                "output_MW": 582,
+                "output_MW": 581,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             },
             {
                 "name": "Reactor 2",
                 "status": "Nominal full load",
-                "output_MW": 581,
+                "output_MW": 577,
                 "shutdown_category": "None",
                 "expected_return_to_service_date": "None"
             }
